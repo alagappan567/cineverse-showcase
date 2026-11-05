@@ -4,7 +4,6 @@
 
 ### A next-generation movie ticket booking experience
 
-**[▶ Try the live demo → cineverse-blond-nine.vercel.app](https://cineverse-blond-nine.vercel.app)**
 
 ![Cineverse home](screenshots/home.png)
 
